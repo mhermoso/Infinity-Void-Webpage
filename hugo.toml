@@ -25,7 +25,6 @@ pagination.pagerSize = 5
       readOtherPosts = "Read other posts"
       [languages.en.params.logo]
         logoText = "~/infinity-void"
-        logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
