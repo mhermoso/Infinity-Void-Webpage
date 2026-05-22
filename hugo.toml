@@ -1,0 +1,46 @@
+baseURL = "/"
+locale = "en-us"
+title = "Infinity Void"
+theme = "terminal"
+pagination.pagerSize = 5
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 4
+  fullWidthTheme = false
+  centerTheme = false
+
+[languages]
+  [languages.en]
+    title = "Infinity Void"
+    copyright = "Infinity Void Minecraft Server"
+    [languages.en.params]
+      subtitle = "Comprehensive Server Documentation"
+      keywords = "minecraft, papermc, server, infinity void"
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      [languages.en.params.logo]
+        logoText = "~/infinity-void"
+        logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "technical-infrastructure"
+        name = "Infrastructure"
+        url = "/technical-infrastructure"
+      [[languages.en.menu.main]]
+        identifier = "plugin-roadmap"
+        name = "Plugins"
+        url = "/plugin-roadmap"
+      [[languages.en.menu.main]]
+        identifier = "onboarding"
+        name = "Onboarding"
+        url = "/onboarding"
+      [[languages.en.menu.main]]
+        identifier = "guidelines"
+        name = "Guidelines"
+        url = "/guidelines"
