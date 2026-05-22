@@ -1,4 +1,5 @@
 baseURL = "/"
+relativeURLs = true
 locale = "en-us"
 title = "Infinity Void"
 theme = "terminal"
