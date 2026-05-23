@@ -4,7 +4,7 @@ description: "Comprehensive Minecraft Server Documentation"
 date: 2026-05-22
 ---
 
-![Infinity Void Banner](/banner.png)
+![Infinity Void Banner](banner.png)
 
 A PaperMC server running on Dell PowerEdge T40 via WSL/Debian with Podman.
 
