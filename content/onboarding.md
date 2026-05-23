@@ -11,23 +11,23 @@ Participants must install the Simple Voice Chat mod for proximity audio.
 1. Install the [Modrinth App](https://modrinth.com/app)
 2. Create a new instance and select Fabric as your loader
 
-   ![Create Instance](../Create_Instance.png)
-   ![Custom Setup](<../Custom setup.png>)
-   ![Instance details](<../Instance details.png>)
+   ![Create Instance](/content/Create_Instance.png)
+   ![Custom Setup](/content/Custom setup.png)
+   ![Instance details](/content/Instance details.png)
 
 3. Search for and install Simple Voice Chat
 
-   ![Browse Content](<../Browse content.png>)
+   ![Browse Content](/content/Browse content.png)
 
-   ![Simple Voice Chat](<../Simple Voice Chat.png>)
+   ![Simple Voice Chat](Simple Voice Chat.png)
 
 4. Worlds → Add a Server
 
-   ![Add a server](<../Add a Server.png>)
+   ![Add a server](Add a Server.png)
 
 5. Launch the game - Play ▶️
 
-   ![Play](../Play.png)
+   ![Play](content/Play.png)
 
 ## Manual Installation
 
