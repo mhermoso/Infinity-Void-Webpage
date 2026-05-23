@@ -19,15 +19,15 @@ Participants must install the Simple Voice Chat mod for proximity audio.
 
    ![Browse Content](/content/Browse content.png)
 
-   ![Simple Voice Chat](/content/Simple Voice Chat.png>)
+   ![Simple Voice Chat](Simple Voice Chat.png)
 
 4. Worlds → Add a Server
 
-   ![Add a server](./Add a Server.png)
+   ![Add a server](Add a Server.png)
 
 5. Launch the game - Play ▶️
 
-   ![Play](/content/Play.png)
+   ![Play](content/Play.png)
 
 ## Manual Installation
 
