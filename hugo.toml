@@ -1,5 +1,5 @@
-baseURL = "/"
-relativeURLs = true
+baseURL = "https://mhermoso.github.io/Infinity-Void-Webpage/"
+relativeURLs = false
 locale = "en-us"
 title = "Infinity Void"
 theme = "terminal"
