@@ -1,14 +1,14 @@
 ---
 title: "Infinity Void"
 description: "Comprehensive Minecraft Server Documentation"
-date: 2026-07-05
+date: 2026-07-07
 ---
 
 ![Infinity Void Banner](banner.png)
 
 A PaperMC server running on Dell PowerEdge T40 via WSL/Debian with Podman.
 
-**Latest Update**: 2026-07-05
+**Latest Update**: 2026-07-07 (Server updated to Paper version 26.1.2)
 
 
 - [Technical Infrastructure]({{< relref "technical-infrastructure" >}}) — Server setup, compose.yaml, networking
