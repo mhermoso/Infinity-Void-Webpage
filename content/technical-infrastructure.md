@@ -1,7 +1,7 @@
 ---
 title: "Technical Infrastructure"
 description: "Server admin details, hardware, and Docker setup"
-date: 2026-05-22
+date: 2026-07-26
 ---
 
 The Infinity Void server is built for performance and reliability on a Dell PowerEdge T40 using a containerized approach within a WSL/Debian environment.
@@ -17,7 +17,7 @@ The Infinity Void server is built for performance and reliability on a Dell Powe
 
 - **CPU**: Intel(R) Core(TM) i3-8300 CPU @ 3.70GHz (4 Cores)
 - **Total System RAM**: 16 GB
-- **Allocated Memory**: The Minecraft server container is explicitly allocated 4GB of RAM.
+- **Allocated Memory**: The Minecraft server container is explicitly allocated 10GB of RAM.
 
 ## Logs and Updates
 
@@ -47,7 +47,7 @@ services:
     environment:
       EULA: "TRUE"
       TYPE: "PAPER"
-      MEMORY: "4G"
+      MEMORY: "10G"
     volumes:
       - ./mc-data:/data:Z
     ports:
